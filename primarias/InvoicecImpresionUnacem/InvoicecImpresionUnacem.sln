@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoicecImpresionUnacem", "InvoicecImpresionUnacem\InvoicecImpresionUnacem.csproj", "{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{30E49478-97EE-45B6-A9C2-4E5242F7A39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clibLogger", "..\..\clibLogger\clibLogger.csproj", "{B6B35C8B-391A-425E-A6C6-016E163D0BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{14E92CC5-C239-4D7C-8713-C20BB48561D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}.Debug|x64.Build.0 = Debug|Any CPU
+		{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}.Release|x64.ActiveCfg = Release|Any CPU
+		{02CDAA56-D7A8-4AE8-86BA-9C957B1746D0}.Release|x64.Build.0 = Release|Any CPU
+		{30E49478-97EE-45B6-A9C2-4E5242F7A39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E49478-97EE-45B6-A9C2-4E5242F7A39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E49478-97EE-45B6-A9C2-4E5242F7A39F}.Debug|x64.ActiveCfg = Debug|x64
+		{30E49478-97EE-45B6-A9C2-4E5242F7A39F}.Debug|x64.Build.0 = Debug|x64
+		{30E49478-97EE-45B6-A9C2-4E5242F7A39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E49478-97EE-45B6-A9C2-4E5242F7A39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E49478-97EE-45B6-A9C2-4E5242F7A39F}.Release|x64.ActiveCfg = Release|x64
+		{30E49478-97EE-45B6-A9C2-4E5242F7A39F}.Release|x64.Build.0 = Release|x64
+		{B6B35C8B-391A-425E-A6C6-016E163D0BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B35C8B-391A-425E-A6C6-016E163D0BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B35C8B-391A-425E-A6C6-016E163D0BF6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B6B35C8B-391A-425E-A6C6-016E163D0BF6}.Debug|x64.Build.0 = Debug|Any CPU
+		{B6B35C8B-391A-425E-A6C6-016E163D0BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B35C8B-391A-425E-A6C6-016E163D0BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B35C8B-391A-425E-A6C6-016E163D0BF6}.Release|x64.ActiveCfg = Release|Any CPU
+		{B6B35C8B-391A-425E-A6C6-016E163D0BF6}.Release|x64.Build.0 = Release|Any CPU
+		{14E92CC5-C239-4D7C-8713-C20BB48561D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E92CC5-C239-4D7C-8713-C20BB48561D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E92CC5-C239-4D7C-8713-C20BB48561D1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{14E92CC5-C239-4D7C-8713-C20BB48561D1}.Debug|x64.Build.0 = Debug|Any CPU
+		{14E92CC5-C239-4D7C-8713-C20BB48561D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E92CC5-C239-4D7C-8713-C20BB48561D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E92CC5-C239-4D7C-8713-C20BB48561D1}.Release|x64.ActiveCfg = Release|Any CPU
+		{14E92CC5-C239-4D7C-8713-C20BB48561D1}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A4AEC7-9570-4CB2-ABB1-E9C1197B9917}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs1.sipecom.com/invoicec
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = InvoicecImpresionUnacem\\InvoicecImpresionUnacem.csproj
+		SccProjectName1 = InvoicecImpresionUnacem
+		SccLocalPath1 = InvoicecImpresionUnacem
+		SccProjectUniqueName2 = Datos\\Datos.csproj
+		SccProjectName2 = Datos
+		SccLocalPath2 = Datos
+		SccProjectUniqueName3 = ..\\..\\clibLogger\\clibLogger.csproj
+		SccProjectName3 = ../../clibLogger
+		SccLocalPath3 = ..\\..\\clibLogger
+		SccProjectUniqueName4 = Test\\Test.csproj
+		SccProjectName4 = Test
+		SccLocalPath4 = Test
+	EndGlobalSection
+EndGlobal

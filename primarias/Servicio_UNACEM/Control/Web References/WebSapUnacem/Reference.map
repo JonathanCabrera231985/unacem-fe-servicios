@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Users/ppiedrahita/Documents/webservice/svcUNACEMECSRIxsd2.xsd" filename="svcUNACEMECSRIxsd2.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Users/ppiedrahita/Documents/webservice/svcUNACEMECSRIxsd3.xsd" filename="svcUNACEMECSRIxsd3.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Users/ppiedrahita/Documents/webservice/svcUNACEMECSRIxsd0.xsd" filename="svcUNACEMECSRIxsd0.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///C:/Users/ppiedrahita/Documents/webservice/svcUNACEMECSRI.wsdl" filename="SvcUNACEMECSRI.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///C:/Users/ppiedrahita/Documents/webservice/svcUNACEMECSRIxsd1.xsd" filename="svcUNACEMECSRIxsd1.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>

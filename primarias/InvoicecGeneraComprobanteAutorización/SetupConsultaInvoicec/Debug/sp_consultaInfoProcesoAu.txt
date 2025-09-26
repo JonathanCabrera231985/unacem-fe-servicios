@@ -1,0 +1,62 @@
+USE [CO-CAL1-DBInvoice]
+GO
+/****** Object:  StoredProcedure [dbo].[sp_consultaInfoProceso]    Script Date: 12/07/2021 9:09:15 a.m. ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+
+CREATE PROCEDURE [dbo].[sp_consultaInfoProcesoAu]
+@documentoXML xml
+AS
+DECLARE @ErrMsg nvarchar(max), @ErrSeverity int  ,@DocHandle int       
+    
+   
+EXEC sp_xml_preparedocument @DocHandle OUTPUT, @documentoXML 
+BEGIN TRY  
+	declare @OPCION_ SMALLINT
+	set @OPCION_=(SELECT OPCION FROM OPENXML (@DocHandle, '/INSTRUCCION/FILTROS',2) WITH(OPCION smallint))
+
+	declare @RutaXMLbase nvarchar(1000), @RutaDoc nvarchar(1000)
+
+	-- ======================		CONSULTA DOCUMENTOS PENDIENTE	=======================	
+	if(@OPCION_ = 2)
+	begin
+
+		select @RutaXMLbase= dirXMLbase ,@RutaDoc = dirdocs from EMISOR with(nolock)
+
+        Select A.codigoControl,A.codDoc,A.idComprobante, '' tipoEnvio,case when DATEADD(HOUR,2 , A.INSERTDATE) < GETDATE() then '2'
+		 else A.estado end as estado,                                   
+		  A.tipo,A.claveAcceso, A.ambiente,A.importeAPagar,A.totalSinImpuestos,A.subtotal12,A.subtotal0,A.subtotalNoSujeto,A.ptoEmi,
+		  A.estab,A.secuencial , b.RFCEMI, A.xmlGenerado, A.esquema , @RutaXMLbase as RutaXMLbase  , @RutaDoc as RutaDoc
+			from 
+				GENERAL A inner join 
+				EMISOR b on A.id_Emisor = b.IDEEMI  INNER JOIN
+				ParametrosSistema C ON 1 = 1
+			WHERE (A.estado ='4' AND tipo ='P' and numeroAutorizacion is null AND  
+			DATEADD(SECOND, 60, INSERTDATE) < GETDATE()) OR (A.estado ='2' AND A.tipo ='E' AND numeroAutorizacion IS NULL)
+		
+		
+	end
+
+	
+END TRY     
+BEGIN CATCH          
+    IF (@@error <> 0 )          
+    BEGIN            
+		
+		SELECT @ErrMsg = 'Procedimiento :' + ERROR_PROCEDURE() + ' Error :' + ERROR_MESSAGE(),@ErrSeverity = ERROR_SEVERITY()        
+		RAISERROR (@ErrMsg,@ErrSeverity,1)          
+		return          
+    END          
+END CATCH;       
+    
+    
+EXEC sp_xml_removedocument @DocHandle
+
+
+
+
+

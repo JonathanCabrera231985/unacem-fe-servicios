@@ -1,0 +1,587 @@
+D:\server\DataExpress\DataExpress\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\DataExpress\DataExpress\Interfaz\obj\x86\Debug\Interfaz.Form1.resources
+D:\server\DataExpress\DataExpress\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\DataExpress\DataExpress\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\DataExpress\DataExpress\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Interfaz.exe
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Control.dll
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Datos.dll
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Sello.dll
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Control.pdb
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Datos.pdb
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Sello.pdb
+D:\server\DataExpress\MultiDataExpress\Interfaz\bin\Debug\Sello.xml
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\server\DataExpress\MultiDataExpress\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\server\DE\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\DE\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\DE\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\DE\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\DE\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\server\DE\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\DE\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\server\DE\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\DE\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\server\DE\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\DE\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\DE\Interfaz\bin\Debug\Interfaz.exe
+D:\server\DE\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\DE\Interfaz\bin\Debug\Control.dll
+D:\server\DE\Interfaz\bin\Debug\Datos.dll
+D:\server\DE\Interfaz\bin\Debug\Sello.dll
+D:\server\DE\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\server\DE\Interfaz\bin\Debug\Control.pdb
+D:\server\DE\Interfaz\bin\Debug\Datos.pdb
+D:\server\DE\Interfaz\bin\Debug\Sello.pdb
+D:\server\DE\Interfaz\bin\Debug\Sello.xml
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Interfaz.exe
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Control.dll
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Sello.dll
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Control.pdb
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Sello.pdb
+D:\server\SistemasFacturacion\DataJuan\Interfaz\bin\Debug\Sello.xml
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\SistemasFacturacion\DataJuan\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Interfaz.exe
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Control.dll
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Sello.dll
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Control.pdb
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Sello.pdb
+D:\server\SistemasFacturacion\DataRacel\Interfaz\bin\Debug\Sello.xml
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\SistemasFacturacion\DataRacel\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\RACEL-WEBSITE\DataRacel\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\RACEL-WEBSITE\RACEL\DataRacel\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\DataRacel\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Interfaz.exe
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Control.dll
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Datos.dll
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Sello.dll
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Control.pdb
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Datos.pdb
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Sello.pdb
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\bin\Debug\Sello.xml
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\SistemasFacturacion 1.0\Hamton\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataRacel\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.exe
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.pdb
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Control.dll
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Datos.dll
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.dll
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\diCrSysPKINet.dll
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Control.pdb
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Datos.pdb
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.pdb
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.xml
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Hilton GDL\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.exe
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.pdb
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Control.dll
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Datos.dll
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.dll
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\diCrSysPKINet.dll
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Control.pdb
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Datos.pdb
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.pdb
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.xml
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Hoteles Hilton\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\timbrado.dll
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\CodeQR.dll
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\timbrado.pdb
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\CodeQR.pdb
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\Hilton Reforma\DataHiltonGDLXdS\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Interfaz.exe.config
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Interfaz.exe
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Interfaz.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Control.dll
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Datos.dll
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\timbrado.dll
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\CodeQR.dll
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Sello.dll
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Control.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Datos.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\timbrado.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\CodeQR.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Sello.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\bin\Debug\Sello.xml
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Archivos\HILTON\Reforma\DataHiltonGDLXdS_tere\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.dll
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.dll
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.dll
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.dll
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.dll
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.pdb
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.xml
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\Archivos\HILTON\Reforma\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\HiltonReforma Ultimo\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\HiltonReforma Ultimo\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\HiltonReforma Ultimo\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\HiltonReforma Ultimo\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\HiltonReforma Ultimo\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\HiltonReforma Ultimo\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.pdb
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.dll
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.dll
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.dll
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.dll
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.dll
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.pdb
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.pdb
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.pdb
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.pdb
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.pdb
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.xml
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DataExpress\DataHoteles\HILTONVALLARTA\DataHiltonXdS_Completo\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.pdb
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.dll
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.dll
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.dll
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.dll
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.dll
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\diCrSysPKINet.dll
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.pdb
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.pdb
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.pdb
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.pdb
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.pdb
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.xml
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+E:\DataExpress\DataHoteles\Hilton Vallarta\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.pdb
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.dll
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.dll
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.dll
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.dll
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.dll
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.pdb
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.pdb
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.pdb
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.pdb
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.pdb
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.xml
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\DIEGO\Vallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.pdb
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.dll
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.dll
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.dll
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.dll
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.dll
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\diCrSysPKINet.dll
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.pdb
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.pdb
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.pdb
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.pdb
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.pdb
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.xml
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+E:\DataExpress\DataHoteles\HVallarta\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.dll
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.dll
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.dll
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.dll
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.dll
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\diCrSysPKINet.dll
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.pdb
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.pdb
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\timbrado.pdb
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.pdb
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.pdb
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\bin\Debug\Sello.xml
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Backup.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Proceso.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.mail.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Registro.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Restore.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog

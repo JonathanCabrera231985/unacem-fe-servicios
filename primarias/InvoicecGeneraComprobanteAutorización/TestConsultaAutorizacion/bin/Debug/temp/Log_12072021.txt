@@ -1,0 +1,16 @@
+12-07-2021  10:36:03  error System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Datos.BasesDatos.TraerDataset(String ProcedimientoAlmacenado, Object[] Args) en D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Datos\BasesDatos.cs:línea 357
+   en consultaAutorizacion.Proceso.inicio() en D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\consultaAutorizacion\Proceso.cs:línea 30
+ 
+12-07-2021  10:36:50  error System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Datos.BasesDatos.TraerDataset(String ProcedimientoAlmacenado, Object[] Args) en D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Datos\BasesDatos.cs:línea 357
+   en consultaAutorizacion.Proceso.inicio() en D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\consultaAutorizacion\Proceso.cs:línea 30
+ 
+12-07-2021  10:37:05  error System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Datos.BasesDatos.TraerDataset(String ProcedimientoAlmacenado, Object[] Args) en D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Datos\BasesDatos.cs:línea 357
+   en consultaAutorizacion.Proceso.inicio() en D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\consultaAutorizacion\Proceso.cs:línea 30
+ 
+12-07-2021  10:37:46  error System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Datos.BasesDatos.TraerDataset(String ProcedimientoAlmacenado, Object[] Args) en D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Datos\BasesDatos.cs:línea 357
+   en consultaAutorizacion.Proceso.inicio() en D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\consultaAutorizacion\Proceso.cs:línea 30
+ 

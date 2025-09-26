@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Control.CrearPDF" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>CrearPDF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.DataSet1" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.EnviarMail" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAACAAAAAAAAAAAAAAAAAAACAAAAAAgAEAAAAAA=</HashCode>
+      <FileName>EnviarMail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.Ftp" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Ftp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.GenerarXml" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MQQRdzfolEx8QmAEqOFGpSDoOSFqxxJ0UqYEVzD1IFA=</HashCode>
+      <FileName>GenerarXml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.GuardarBD" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAAAAAAEBAAIABAAAAYAAAAQAAAAAAAAAABA=</HashCode>
+      <FileName>GuardarBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.Leer" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MQQBdzeolEgcQmAEKKEEoSDoCSBiRxN0QiYAETB0IEA=</HashCode>
+      <FileName>Leer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.NumerosALetras" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAACAAAAAABAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>NumerosALetras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.Properties.Settings" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAIAAAAAAJAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control.MYSUITE3.TransactionTag" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACAEBAAAAAAAAAAAAAgAAAgABAAAAgAAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITE3.FactRequest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GACDAACSBAAAAAAoAAAAAAAAgAIAACgFAQAAgYAAAAQ=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITE3.FactResponseData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAACAAAAAAAAAACAAiDQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITE3.BatchID" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAACAAABAAAAEAAAAAACgAAAABAAAgAAQQEAAAQ=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITE3.DocID" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GwAAAcACALAzAiCQEAAhAIIbijoApBARCgAAQwGgQS0=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITE3.FactResponse" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAKCQAAgAACEAAAoAAQAgAAAAhAEAgAAQAAUIAQ=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITE3.FactWSFrontSoapClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITEPROD.TransactionTag" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACAEBAAAAAAAAAAAAAgAAAgABAAAAgAAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITEPROD.FactRequest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GACDAACSBAAAAAAoAAAAAAAAgAIAACgFAQAAgYAAAAQ=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITEPROD.FactResponseData" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAACAAAAAAAAAACAAiDQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITEPROD.BatchID" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAACAAABAAAAEAAAAAACgAAAABAAAgAAQQEAAAQ=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITEPROD.DocID" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GwAAAcACALAzAiCQEAAhAIIbijoApBARCgAAQwGgQS0=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITEPROD.FactResponse" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAKCQAAgAACEAAAoAAQAgAAAAhAEAgAAQAAUIAQ=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Control.MYSUITEPROD.FactWSFrontSoapClient" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Datos.BaseDatosException" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Datos.BasesDatos" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Control.MYSUITE3.FactWSFrontSoap" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Control.MYSUITE3.FactWSFrontSoapChannel" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Control.MYSUITEPROD.FactWSFrontSoap" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Control.MYSUITEPROD.FactWSFrontSoapChannel" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Control.MYSUITE3.Transactions" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgPCAgEIDQAY28QSAEIBCSQFJAACM0QCEMQgECAAIgI=</HashCode>
+      <FileName>Service References\MYSUITE3\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Control.MYSUITEPROD.Transactions" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgPCAgEIDQAY28QSAEIBCSQFJAACM0QCEMQgECAAIgI=</HashCode>
+      <FileName>Service References\MYSUITEPROD\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Calibri" Size="9.75" />
+</ClassDiagram>

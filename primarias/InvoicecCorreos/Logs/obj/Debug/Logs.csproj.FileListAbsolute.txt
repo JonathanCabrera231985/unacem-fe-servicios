@@ -1,0 +1,33 @@
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\bin\Debug\Logs.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\bin\Debug\Logs.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\bin\Debug\Datos.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\bin\Debug\Datos.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\obj\Debug\Logs.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\obj\Debug\Logs.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\bin\Debug\Logs.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\bin\Debug\Logs.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\bin\Debug\Datos.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\bin\Debug\Datos.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.csprojAssemblyReference.cache
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.csproj.CoreCompileInputs.cache
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.csproj.CopyComplete
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.pdb
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\bin\Debug\Logs.dll
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\bin\Debug\Logs.pdb
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\bin\Debug\Datos.dll
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\bin\Debug\Datos.pdb
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\obj\Debug\Logs.csprojAssemblyReference.cache
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\obj\Debug\Logs.csproj.CoreCompileInputs.cache
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\obj\Debug\Logs.csproj.CopyComplete
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\obj\Debug\Logs.dll
+C:\Users\ppiedrahita\source\repos\InvoicecCorreos\Logs\obj\Debug\Logs.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\bin\Debug\Logs.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\bin\Debug\Logs.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\bin\Debug\Datos.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\bin\Debug\Datos.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\obj\Debug\Logs.csprojAssemblyReference.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\obj\Debug\Logs.csproj.CoreCompileInputs.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\obj\Debug\Logs.csproj.CopyComplete
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\obj\Debug\Logs.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Logs\obj\Debug\Logs.pdb

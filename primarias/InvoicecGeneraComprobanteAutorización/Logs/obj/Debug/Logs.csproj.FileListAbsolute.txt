@@ -1,0 +1,15 @@
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\bin\Debug\Logs.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\bin\Debug\Logs.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\bin\Debug\Datos.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\bin\Debug\Datos.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\obj\Debug\Logs.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecConsultaAutorización\Logs\obj\Debug\Logs.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\bin\Debug\Logs.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\bin\Debug\Logs.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\bin\Debug\Datos.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\bin\Debug\Datos.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.csprojAssemblyReference.cache
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.csproj.CoreCompileInputs.cache
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.csproj.CopyComplete
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\Logs\obj\Debug\Logs.pdb

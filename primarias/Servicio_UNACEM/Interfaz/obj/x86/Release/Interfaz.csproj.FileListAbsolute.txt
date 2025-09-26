@@ -1,0 +1,30 @@
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Interfaz.exe.config
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Interfaz.exe
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Interfaz.pdb
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Control.dll
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Datos.dll
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Sello.dll
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\diCrSysPKINet.dll
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Control.pdb
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Datos.pdb
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Sello.pdb
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\bin\Release\Sello.xml
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\Interfaz.Proceso.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\Interfaz.Inicio.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\Interfaz.mail.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\Interfaz.Properties.Resources.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\Interfaz.Registro.resources
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\GenerateResource.read.1.tlog
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\GenerateResource.write.1.tlog
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\Interfaz.exe
+D:\DataExpress\DataHoteles\Hamton\DataRacel\Interfaz\obj\x86\Release\Interfaz.pdb
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\bin\Release\Interfaz.exe.config
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Release\Interfaz.exe
+D:\DataExpress\DataHoteles\HamptonAeropuerto\DataRacel\Interfaz\obj\x86\Release\Interfaz.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\bin\Release\Interfaz.exe.config
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Release\Interfaz.exe
+D:\DataExpress\DataHoteles\hamptonGuadalajara\DataHamptonGDL\Interfaz\obj\x86\Release\Interfaz.pdb
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\bin\Release\Interfaz.exe.config
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Release\Interfaz.exe
+D:\DataExpress\DataHoteles\hamptonGuadalajara\Version 2.2\DataHamptonGDL\Interfaz\obj\x86\Release\Interfaz.pdb

@@ -1,0 +1,198 @@
+c:\users\javier\documents\visual studio 2010\Projects\CriptoSimetrica\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+c:\users\javier\documents\visual studio 2010\Projects\CriptoSimetrica\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+c:\users\javier\documents\visual studio 2010\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2010\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+c:\users\javier\documents\visual studio 2010\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\HP\Desktop\DataExpress\Projects\CriptoSimetrica\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\HP\Desktop\DataExpress\Projects\CriptoSimetrica\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\HP\Desktop\DataExpress\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DataExpress\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\HP\Desktop\DataExpress\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\javier\Documents\DATAXPRESS\Projects\CriptoSimetrica\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\javier\Documents\DATAXPRESS\Projects\CriptoSimetrica\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\javier\Documents\DATAXPRESS\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\javier\Documents\DATAXPRESS\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\javier\Documents\DATAXPRESS\Projects\CriptoSimetrica\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\Vaio\Desktop\Servicio Web\CriptoSimetrica\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\Vaio\Desktop\Servicio Web\CriptoSimetrica\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\Vaio\Desktop\Servicio Web\CriptoSimetrica\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\Servicio Web\CriptoSimetrica\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\Vaio\Desktop\Servicio Web\CriptoSimetrica\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\server\certificacion\DataPruebasMicrosWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\server\certificacion\DataPruebasMicrosWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\server\certificacion\DataPruebasMicrosWeb\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+D:\server\certificacion\DataPruebasMicrosWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\server\certificacion\DataPruebasMicrosWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\server\certificacion\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\server\certificacion\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\server\certificacion\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+D:\server\certificacion\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\server\certificacion\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\DataExpress\Desktop\SistemaRestaurantes\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\DataExpress\Desktop\SistemaRestaurantes\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\DataExpress\Desktop\SistemaRestaurantes\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DataExpress\Desktop\SistemaRestaurantes\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\DataExpress\Desktop\SistemaRestaurantes\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\Davila\Downloads\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\Davila\Downloads\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\Davila\Downloads\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davila\Downloads\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\Davila\Downloads\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\Archivos\HILTON\Reforma\Restaurantes\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\Archivos\HILTON\Reforma\Restaurantes\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\Archivos\HILTON\Reforma\Restaurantes\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+D:\Archivos\HILTON\Reforma\Restaurantes\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\Archivos\HILTON\Reforma\Restaurantes\DataPruebasMicrosWeb - copia\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb - copia\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb - copia\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\SistemaRestaurantes\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\Ernesto\Desktop\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\Ernesto\Desktop\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\Ernesto\Desktop\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\Ernesto\Desktop\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\server\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\server\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\server\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+D:\server\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\server\dataExpressMicross\dataExpressMicross\SistemaActualReforma\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\server\dataExpressMicross\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\server\dataExpressMicross\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\server\dataExpressMicross\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+D:\server\dataExpressMicross\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\server\dataExpressMicross\DataPruebasMicrosWeb-Clientes\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\server\FacturacionEcuador\Servientrega\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\DataExpress\WebDev\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\DataExpress\WebDev\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\DataExpress\WebDev\DataEcuadorWeb\CriptoSimetrica\obj\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\WebDev\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\DataExpress\WebDev\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\DataExpress\Servientrega\WebDev\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\DataExpress\DeltaTorremar\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\DataExpress\DeltaTorremar\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\DataExpress\DeltaTorremar\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\DataExpress\DeltaTorremar\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\CimaIT\Angelo\Transoceanica\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\Invoicec\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\CimaIT\Invoicec\DataEcuadorWeb\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\CimaIT\PIKA\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\PIKA\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\PIKA\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\CimaIT\PIKA\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\CimaIT\Bayer\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\Bayer\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\Bayer\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\CimaIT\Bayer\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\TFS\Desarrollo\Unacem-15272-FuncPortalServicio\primarias\Servicio_UNACEM\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\TFS\Desarrollo\Unacem-15272-FuncPortalServicio\primarias\Servicio_UNACEM\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\TFS\Desarrollo\Unacem-15272-FuncPortalServicio\primarias\Servicio_UNACEM\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\TFS\Desarrollo\Unacem-15272-FuncPortalServicio\primarias\Servicio_UNACEM\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\CriptoSimetrica\bin\Debug\CriptoSimetrica.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\CriptoSimetrica\bin\Debug\CriptoSimetrica.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\CriptoSimetrica\obj\Debug\CriptoSimetrica.csproj.CoreCompileInputs.cache
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\CriptoSimetrica\obj\Debug\CriptoSimetrica.dll
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\CriptoSimetrica\obj\Debug\CriptoSimetrica.pdb
+D:\Users\ppiedrahita\OneDrive - SIPECOM S.A\Documentos\Visual Studio 2010\Projects\InvoicecGeneraComprobanteAutorización\CriptoSimetrica\obj\Debug\CriptoSimetrica.csprojAssemblyReference.cache

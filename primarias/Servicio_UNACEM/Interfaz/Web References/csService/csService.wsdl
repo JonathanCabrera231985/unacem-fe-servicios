@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://cimait.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://cimait.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cimait.org/">
+      <s:element name="ConsultaAutSRI">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="p_tabla">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaAutSRIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultaAutSRIResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="recibeDocs">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="p_data">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+            <s:element minOccurs="0" maxOccurs="1" name="p_sucursal" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="recibeDocsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="recibeDocsResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_mensaje" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="recibeDocsString">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="p_doc" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_nombre" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_sucursal" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="recibeDocsStringResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="recibeDocsStringResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_mensaje" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaAutSRIString">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="p_codDoc" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_numDoc" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultaAutSRIStringResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConsultaAutSRIStringResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_autorizacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_fechaAut" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_xml" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="p_mensaje" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ConsultaAutSRISoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaAutSRI" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaAutSRISoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaAutSRIResponse" />
+  </wsdl:message>
+  <wsdl:message name="recibeDocsSoapIn">
+    <wsdl:part name="parameters" element="tns:recibeDocs" />
+  </wsdl:message>
+  <wsdl:message name="recibeDocsSoapOut">
+    <wsdl:part name="parameters" element="tns:recibeDocsResponse" />
+  </wsdl:message>
+  <wsdl:message name="recibeDocsStringSoapIn">
+    <wsdl:part name="parameters" element="tns:recibeDocsString" />
+  </wsdl:message>
+  <wsdl:message name="recibeDocsStringSoapOut">
+    <wsdl:part name="parameters" element="tns:recibeDocsStringResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaAutSRIStringSoapIn">
+    <wsdl:part name="parameters" element="tns:ConsultaAutSRIString" />
+  </wsdl:message>
+  <wsdl:message name="ConsultaAutSRIStringSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultaAutSRIStringResponse" />
+  </wsdl:message>
+  <wsdl:portType name="csServiceSoap">
+    <wsdl:operation name="ConsultaAutSRI">
+      <wsdl:input message="tns:ConsultaAutSRISoapIn" />
+      <wsdl:output message="tns:ConsultaAutSRISoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="recibeDocs">
+      <wsdl:input message="tns:recibeDocsSoapIn" />
+      <wsdl:output message="tns:recibeDocsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="recibeDocsString">
+      <wsdl:input message="tns:recibeDocsStringSoapIn" />
+      <wsdl:output message="tns:recibeDocsStringSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaAutSRIString">
+      <wsdl:input message="tns:ConsultaAutSRIStringSoapIn" />
+      <wsdl:output message="tns:ConsultaAutSRIStringSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="csServiceSoap" type="tns:csServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultaAutSRI">
+      <soap:operation soapAction="http://cimait.org/ConsultaAutSRI" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recibeDocs">
+      <soap:operation soapAction="http://cimait.org/recibeDocs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recibeDocsString">
+      <soap:operation soapAction="http://cimait.org/recibeDocsString" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaAutSRIString">
+      <soap:operation soapAction="http://cimait.org/ConsultaAutSRIString" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="csServiceSoap12" type="tns:csServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConsultaAutSRI">
+      <soap12:operation soapAction="http://cimait.org/ConsultaAutSRI" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recibeDocs">
+      <soap12:operation soapAction="http://cimait.org/recibeDocs" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recibeDocsString">
+      <soap12:operation soapAction="http://cimait.org/recibeDocsString" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultaAutSRIString">
+      <soap12:operation soapAction="http://cimait.org/ConsultaAutSRIString" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="csService">
+    <wsdl:port name="csServiceSoap" binding="tns:csServiceSoap">
+      <soap:address location="http://192.168.32.90:86/webService/csService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="csServiceSoap12" binding="tns:csServiceSoap12">
+      <soap12:address location="http://192.168.32.90:86/webService/csService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

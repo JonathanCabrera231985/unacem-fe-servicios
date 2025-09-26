@@ -1,0 +1,236 @@
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Datos\bin\Debug\Datos.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Datos\bin\Debug\Datos.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Datos\obj\Debug\Datos.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Datos\obj\Debug\Datos.pdb
+D:\server\Ecuador\XdServiceEcuador\Datos\bin\Debug\Datos.dll
+D:\server\Ecuador\XdServiceEcuador\Datos\bin\Debug\Datos.pdb
+D:\server\Ecuador\XdServiceEcuador\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\XdServiceEcuador\Datos\obj\Debug\Datos.dll
+D:\server\Ecuador\XdServiceEcuador\Datos\obj\Debug\Datos.pdb
+C:\DataExpress\XdServiceEcuador\Datos\bin\Debug\Datos.dll
+C:\DataExpress\XdServiceEcuador\Datos\bin\Debug\Datos.pdb
+C:\DataExpress\XdServiceEcuador\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\DataExpress\XdServiceEcuador\Datos\obj\Debug\Datos.dll
+C:\DataExpress\XdServiceEcuador\Datos\obj\Debug\Datos.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Datos\bin\Debug\Datos.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Datos\bin\Debug\Datos.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Datos\obj\Debug\Datos.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Datos\obj\Debug\Datos.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Datos\bin\Debug\Datos.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Datos\bin\Debug\Datos.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Datos\obj\Debug\Datos.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Datos\obj\Debug\Datos.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Datos\bin\Debug\Datos.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Datos\bin\Debug\Datos.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Datos\obj\Debug\Datos.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Datos\bin\Debug\Datos.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Datos\obj\Debug\Datos.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\Invoicec\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\CimaIT\Invoicec\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\Invoicec\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\CimaIT\Invoicec\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\PIKA\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\CimaIT\PIKA\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\PIKA\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\CimaIT\PIKA\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\Bayer\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\CimaIT\Bayer\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\Bayer\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\CimaIT\Bayer\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Datos\bin\Debug\Datos.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Datos\obj\Debug\Datos.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\bin\Debug\Datos.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Datos\obj\Debug\Datos.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Datos\bin\Debug\Datos.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Datos\bin\Debug\Datos.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.pdb
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\Datos.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\Datos.pdb
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.Shared.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\bin\Debug\stdole.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\Datos.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\Datos.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\clibLogger.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.Shared.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\Newtonsoft.Json.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\stdole.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\clibLogger.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\bin\Debug\Newtonsoft.Json.xml
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Datos\obj\Debug\Datos.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\Datos.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\Datos.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\clibLogger.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.Shared.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\Newtonsoft.Json.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\stdole.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\clibLogger.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\bin\Debug\Newtonsoft.Json.xml
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.pdb
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\Datos.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\Datos.pdb
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\clibLogger.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.Shared.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\Newtonsoft.Json.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\stdole.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\bin\Debug\clibLogger.pdb
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.dll
+C:\TFS-GIT\UNACEM VULNERABILIDADES SERV\primarias\InvoicecCorreos\Datos\obj\Debug\Datos.pdb

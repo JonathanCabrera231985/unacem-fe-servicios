@@ -1,0 +1,143 @@
+D:\GenCode128\GenCode128\bin\Debug\GenCode128.dll
+D:\GenCode128\GenCode128\bin\Debug\GenCode128.pdb
+D:\GenCode128\GenCode128\obj\Debug\ResolveAssemblyReference.cache
+D:\GenCode128\GenCode128\obj\Debug\GenCode128.dll
+D:\GenCode128\GenCode128\obj\Debug\GenCode128.pdb
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\GenCode128\bin\Debug\GenCode128.dll
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\GenCode128\bin\Debug\GenCode128.pdb
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\GenCode128\obj\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\GenCode128\obj\Debug\GenCode128.dll
+D:\server\FacturacionEcuador\Servientrega\XdServiceServientrega\GenCode128\obj\Debug\GenCode128.pdb
+D:\DataExpress\XdServiceServientrega\GenCode128\bin\Debug\GenCode128.dll
+D:\DataExpress\XdServiceServientrega\GenCode128\bin\Debug\GenCode128.pdb
+D:\DataExpress\XdServiceServientrega\GenCode128\obj\Debug\ResolveAssemblyReference.cache
+D:\DataExpress\XdServiceServientrega\GenCode128\obj\Debug\GenCode128.dll
+D:\DataExpress\XdServiceServientrega\GenCode128\obj\Debug\GenCode128.pdb
+C:\DataExpress\XdServiceEcuador\GenCode128\bin\Debug\GenCode128.dll
+C:\DataExpress\XdServiceEcuador\GenCode128\bin\Debug\GenCode128.pdb
+C:\DataExpress\XdServiceEcuador\GenCode128\obj\Debug\ResolveAssemblyReference.cache
+C:\DataExpress\XdServiceEcuador\GenCode128\obj\Debug\GenCode128.dll
+C:\DataExpress\XdServiceEcuador\GenCode128\obj\Debug\GenCode128.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\GenCode128\bin\Debug\GenCode128.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\GenCode128\bin\Debug\GenCode128.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\GenCode128\obj\Debug\GenCode128.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\GenCode128\obj\Debug\GenCode128.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\GenCode128\bin\Debug\GenCode128.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\GenCode128\bin\Debug\GenCode128.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\GenCode128\obj\Debug\GenCode128.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\GenCode128\obj\Debug\GenCode128.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\GenCode128\bin\Debug\GenCode128.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\GenCode128\bin\Debug\GenCode128.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\GenCode128\obj\Debug\GenCode128.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\GenCode128\obj\Debug\GenCode128.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\GenCode128\bin\Debug\GenCode128.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\GenCode128\bin\Debug\GenCode128.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\GenCode128\obj\Debug\GenCode128.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\GenCode128\obj\Debug\GenCode128.pdb
+C:\CimaIT\Invoicec\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\CimaIT\Invoicec\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\CimaIT\Invoicec\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\CimaIT\Invoicec\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\CimaIT\PIKA\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\CimaIT\PIKA\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\CimaIT\PIKA\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\CimaIT\PIKA\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\CimaIT\Bayer\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\CimaIT\Bayer\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\CimaIT\Bayer\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\CimaIT\Bayer\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 13-10-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\ProyectosFacturacion13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\bin\Debug\GenCode128.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\GenCode128\obj\Debug\GenCode128.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\GenCode128\bin\Debug\GenCode128.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\GenCode128\bin\Debug\GenCode128.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.pdb
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\GenCode128\bin\Debug\GenCode128.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\GenCode128\bin\Debug\GenCode128.pdb
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.csproj.CoreCompileInputs.cache
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.dll
+D:\TFS\Nuevo\Desarrollo\UNACEM\Fix\17889-WebService\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\GenCode128\bin\Debug\GenCode128.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\GenCode128\bin\Debug\GenCode128.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.csprojAssemblyReference.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.csproj.CoreCompileInputs.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\GenCode128\obj\Debug\GenCode128.pdb

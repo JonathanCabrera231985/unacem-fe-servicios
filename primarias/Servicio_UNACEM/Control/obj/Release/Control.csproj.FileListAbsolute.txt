@@ -1,0 +1,10 @@
+C:\DataExpress\XdServiceEcuador\Control\obj\Release\ResolveAssemblyReference.cache
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\XdServiceTorremar\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\InvoicecService\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\CimaIT\PIKA\InvoicecService\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\CimaIT\Bayer\InvoicecService\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Control\obj\Release\Control.csprojResolveAssemblyReference.cache

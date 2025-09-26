@@ -1,0 +1,1149 @@
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\Ecuador\Entrenamiento\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.exe
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.dll
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.dll
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\Control.pdb
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\Datos.pdb
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\ReportesDEI.dll
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\ReportesDEI.pdb
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\CodeQR.dll
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\validacion.dll
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\TestProject1.dll
+D:\server\Ecuador\DataHiltonXdS_Completo\Interfaz\bin\Debug\TestProject1.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\Control.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\Datos.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\CodeQR.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\validacion.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\facturaE_additional.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\IKVM.Runtime.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\commons-logging-1.1.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\Control.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\Datos.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.pdb
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\FacturacionEcuador\CimaIT\DataCima28Ene\XdServiceEcuador\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe.config
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.pdb
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\Control.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\Datos.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\CodeQR.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\validacion.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\facturaE_additional.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\IKVM.Runtime.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\commons-logging-1.1.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\Control.pdb
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\Datos.pdb
+D:\server\Ecuador\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.pdb
+D:\server\Ecuador\XdServiceEcuador\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\server\Ecuador\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\server\Ecuador\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\server\Ecuador\XdServiceEcuador\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\server\Ecuador\XdServiceEcuador\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\server\Ecuador\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\server\Ecuador\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe.config
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.pdb
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Control.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Datos.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\GenCode128.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\CodeQR.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\facturaE_additional.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\validacion.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Control.pdb
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Datos.pdb
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\GenCode128.pdb
+C:\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe.config
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Control.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Datos.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\GenCode128.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\CodeQR.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\validacion.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\facturaE_additional.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Control.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\Datos.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\GenCode128.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\itextsharp.dll
+C:\DataExpress\CimaIT\DataExpress\XdServiceEcuador\Interfaz\bin\Debug\itextsharp.xml
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe.config
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.exe
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\Interfaz.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\Control.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\Datos.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\GenCode128.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\Key_Electronica.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\CodeQR.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\validacion.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\itextsharp.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\facturaE_additional.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\Control.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\Datos.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\GenCode128.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\DataExpress\DeltaTorremar\XdServiceEcuador\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\Interfaz.exe.config
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\Interfaz.exe
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\Interfaz.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\Control.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\Datos.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\GenCode128.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\Key_Electronica.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\CodeQR.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\validacion.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\ReportesDEI.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\itextsharp.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\facturaE_additional.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\Control.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\Datos.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\GenCode128.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\DataExpress\DeltaTorremar\XdServiceTorremar\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\Interfaz.exe.config
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\Interfaz.exe
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\Interfaz.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\Control.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\Datos.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\GenCode128.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\CodeQR.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\Key_Electronica.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\ReportesDEI.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\itextsharp.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\facturaE_additional.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\validacion.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\Control.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\Datos.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\GenCode128.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\CimaIT\Invoicec\XdServiceTorremar\Interfaz\bin\Debug\validacion.pdb
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\CimaIT\Invoicec\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\CimaIT\PIKA\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\CimaIT\PIKA\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\CimaIT\PIKA\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\CimaIT\PIKA\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\CimaIT\PIKA\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\CimaIT\PIKA\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\CimaIT\PIKA\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\CimaIT\Bayer\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\CimaIT\Bayer\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\CimaIT\Bayer\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\CimaIT\Bayer\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\CimaIT\Bayer\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\CimaIT\Bayer\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\CimaIT\Bayer\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\CimaIT\LaFarge\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Proyecto_Ruben\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\AE.Net.Mail.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Ionic.Zip.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\AE.Net.Mail.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\CimaIT\LaFarge\LAFARGE_NEW\LAFARGE\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\AE.Net.Mail.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Ionic.Zip.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\AE.Net.Mail.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\CimaIT\LaFarge\Unacem\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\AE.Net.Mail.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\andre\Desktop\UNACEM\Producción\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\andre\Desktop\UNACEM\Producción\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+F:\PRODUCCION\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\PASANTE FACT\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\MCUADROS\Documents\marcos\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Control.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\PROYECTOS\CAMBIOS_UNACEM20-02-2016\UNACEM -SAP - INVOICEC\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\PROYECTOS\CAMBIOS_UNACEM19-04-2016\UNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+F:\Carpeta_marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Control.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Datos.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\validacion.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Control.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 19-04-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+F:\Carpeta_marcos\marcos\COPIAUNACEM -PRIMARIAS 03-06-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Users\FAB-PPIEDRAHITA\Desktop\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\FAB-PPIEDRAHITA\Desktop\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\FAB-PPIEDRAHITA\Desktop\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Duragas\Desktop\UNACEM -OffLINE\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Users\Emilio Zamora\Desktop\Unacem\UNACEM -OffLINE222\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Emilio Zamora\Desktop\Unacem\UNACEM -OffLINE222\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\Emilio Zamora\Desktop\Unacem\UNACEM -OffLINE222\UNACEM -SECUNDARIAS13-10-2016\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+D:\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Pruebawebservices.resources
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\Users\CAPARICIO\Desktop\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe.config
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.exe
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.exe
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Interfaz.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Key_Electronica.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CodeQR.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\facturaE_additional.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\itextsharp.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.Runtime.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\commons-logging-1.1.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Control.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\Datos.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\GenCode128.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\CriptoSimetrica.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\ReportesDEI.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\bin\Debug\validacion.pdb
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\Interfaz.Pruebawebservices.resources
+F:\unacem05-11-2017\unam\unam\UNACEM -PRIMARIAS 02-12-2016\InvoicecService\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+C:\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.exe.config
+C:\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.exe.config
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.exe
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojResolveAssemblyReference.cache
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.Pruebawebservices.resources
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.Cache
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.exe
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Control.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Datos.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\GenCode128.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CriptoSimetrica.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Key_Electronica.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CodeQR.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\ReportesDEI.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\validacion.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\facturaE_additional.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\itextsharp.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.Runtime.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\commons-logging-1.1.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Control.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Datos.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\GenCode128.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CriptoSimetrica.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\ReportesDEI.pdb
+F:\FE PPIEDRAHITA\FE PPIEDRAHITA\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\validacion.pdb
+E:\Proyectos\unacem\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.exe.config
+E:\Proyectos\unacem\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.exe
+E:\Proyectos\unacem\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\pablo proyectos\proyectos\unacem\unacem\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.exe.config
+C:\pablo proyectos\proyectos\unacem\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\pablo proyectos\proyectos\unacem\unacem\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.exe.config
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.exe
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Interfaz.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\clibLogger.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Control.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CriptoSimetrica.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.Shared.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Datos.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\GenCode128.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Newtonsoft.Json.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Key_Electronica.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\ReportesDEI.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\itextsharp.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\MITyCLibXADES-1.0.4.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\MITyCLibAPI-1.0.4.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\validacion.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CodeQR.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\BarcodeLib.Barcode.ASP.NET.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\facturaE_additional.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\MITyCLibCert-1.0.4.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.Runtime.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\commons-logging-1.1.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\xmlsec-1.4.2-ADSI-1.0.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\MITyCLibTSA-1.0.4.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\ThoughtWorks.QRCode.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\stdole.dll
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\clibLogger.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Control.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Control.dll.config
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\CriptoSimetrica.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Datos.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\GenCode128.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\Newtonsoft.Json.xml
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\ReportesDEI.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\ReportesDEI.dll.config
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\bin\Debug\validacion.pdb
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\XdServiceEcuador.csprojAssemblyReference.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.Inicio.resources
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.Properties.Resources.resources
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.Pruebawebservices.resources
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.GenerateResource.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.CoreCompileInputs.cache
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\XdServiceEcuador.csproj.CopyComplete
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.exe
+C:\TFS01\Unacem\Fix\25106-EnvioCorreos\primarias\Servicio_UNACEM\Interfaz\obj\x86\Debug\Interfaz.pdb

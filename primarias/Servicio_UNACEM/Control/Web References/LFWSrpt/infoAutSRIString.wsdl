@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:tns="http://latwisqa02.am.qua.lafargeone.net/laf.webServices.invoicec.infoAutSRIString:infoAutSRIString" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapjms="http://www.w3.org/2010/soapjms/" name="infoAutSRIString" targetNamespace="http://latwisqa02.am.qua.lafargeone.net/laf.webServices.invoicec.infoAutSRIString:infoAutSRIString" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://latwisqa02.am.qua.lafargeone.net/laf.webServices.invoicec.infoAutSRIString:infoAutSRIString">
+      <xsd:element name="ntfyElectronicVouchers" type="tns:ntfyElectronicVouchers" />
+      <xsd:element name="ntfyElectronicVouchersResponse" type="tns:ntfyElectronicVouchersResponse" />
+      <xsd:complexType name="ntfyElectronicVouchers">
+        <xsd:sequence>
+          <xsd:element name="infoAutSRIString" nillable="true" type="tns:infoAutSRIString" />
+          <xsd:element name="debug" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="infoAutSRIString">
+        <xsd:sequence>
+          <xsd:element name="infoAutSRIString" nillable="true" type="tns:infoAutSRIString2" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="infoAutSRIString2">
+        <xsd:sequence>
+          <xsd:element name="p_codDoc" nillable="true" type="tns:p_codDoc" />
+          <xsd:element name="p_numDoc" nillable="true" type="tns:p_numDoc" />
+          <xsd:element name="p_Accesskey" nillable="true" type="tns:p_Accesskey" />
+          <xsd:element minOccurs="0" name="p_Autorizacion" nillable="true" type="tns:p_Autorizacion" />
+          <xsd:element minOccurs="0" name="p_Authdate" nillable="true" type="tns:p_Authdate" />
+          <xsd:element minOccurs="0" name="p_Authtime" nillable="true" type="tns:p_Authtime" />
+          <xsd:element minOccurs="0" name="p_Contingency" nillable="true" type="tns:p_Contingency" />
+          <xsd:element minOccurs="0" name="p_Contdate" nillable="true" type="tns:p_Contdate" />
+          <xsd:element minOccurs="0" name="p_Conttime" nillable="true" type="tns:p_Conttime" />
+          <xsd:element name="p_status" nillable="true" type="tns:p_status" />
+          <xsd:element minOccurs="0" name="p_Message" nillable="true" type="tns:p_Message" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:simpleType name="p_codDoc">
+        <xsd:restriction base="xsd:string">
+          <xsd:length value="2" />
+          <xsd:whiteSpace value="preserve" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_numDoc">
+        <xsd:restriction base="xsd:string">
+          <xsd:minLength value="1" />
+          <xsd:maxLength value="25" />
+          <xsd:whiteSpace value="preserve" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_Accesskey">
+        <xsd:restriction base="xsd:string">
+          <xsd:minLength value="1" />
+          <xsd:maxLength value="60" />
+          <xsd:whiteSpace value="preserve" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_Autorizacion">
+        <xsd:restriction base="xsd:string">
+          <xsd:minLength value="1" />
+          <xsd:maxLength value="60" />
+          <xsd:whiteSpace value="preserve" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_Authdate">
+        <xsd:restriction base="xsd:string">
+          <xsd:pattern value="(\d|\d\d)[- /.](\d|\d\d)[- /.]\d\d\d\d" />
+          <xsd:minLength value="8" />
+          <xsd:maxLength value="10" />
+          <xsd:whiteSpace value="preserve" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_Authtime">
+        <xsd:restriction base="xsd:string">
+          <xsd:whiteSpace value="preserve" />
+          <xsd:minLength value="0" />
+          <xsd:maxLength value="8" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_Contingency">
+        <xsd:restriction base="xsd:string">
+          <xsd:minLength value="0" />
+          <xsd:maxLength value="60" />
+          <xsd:whiteSpace value="preserve" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_Contdate">
+        <xsd:restriction base="xsd:string">
+          <xsd:whiteSpace value="preserve" />
+          <xsd:pattern value="(\d|\d\d)[- /.](\d|\d\d)[- /.]\d\d\d\d" />
+          <xsd:minLength value="8" />
+          <xsd:maxLength value="10" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_Conttime">
+        <xsd:restriction base="xsd:string">
+          <xsd:whiteSpace value="preserve" />
+          <xsd:minLength value="0" />
+          <xsd:maxLength value="8" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_status">
+        <xsd:restriction base="xsd:string">
+          <xsd:whiteSpace value="preserve" />
+          <xsd:minLength value="1" />
+          <xsd:maxLength value="20" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="p_Message">
+        <xsd:restriction base="xsd:string">
+          <xsd:whiteSpace value="preserve" />
+          <xsd:minLength value="0" />
+          <xsd:maxLength value="300" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:complexType name="ntfyElectronicVouchersResponse">
+        <xsd:sequence>
+          <xsd:element name="o_status" nillable="true" type="xsd:string" />
+          <xsd:element name="o_message" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="infoAutSRIString_PortType_ntfyElectronicVouchersResponse">
+    <wsdl:part name="parameters" element="tns:ntfyElectronicVouchersResponse" />
+  </wsdl:message>
+  <wsdl:message name="infoAutSRIString_PortType_ntfyElectronicVouchers">
+    <wsdl:part name="parameters" element="tns:ntfyElectronicVouchers" />
+  </wsdl:message>
+  <wsdl:portType name="infoAutSRIString_PortType">
+    <wsdl:operation name="ntfyElectronicVouchers">
+      <wsdl:input message="tns:infoAutSRIString_PortType_ntfyElectronicVouchers" />
+      <wsdl:output message="tns:infoAutSRIString_PortType_ntfyElectronicVouchersResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="laf_webServices_invoicec_infoAutSRIString_infoAutSRIString_Binder" type="tns:infoAutSRIString_PortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ntfyElectronicVouchers">
+      <soap:operation soapAction="laf_webServices_invoicec_infoAutSRIString_infoAutSRIString_Binder_ntfyElectronicVouchers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="laf.webServices.invoicec.infoAutSRIString.infoAutSRIString">
+    <wsdl:port name="laf_webServices_invoicec_infoAutSRIString_infoAutSRIString_Port" binding="tns:laf_webServices_invoicec_infoAutSRIString_infoAutSRIString_Binder">
+      <soap:address location="http://latwisqa02.am.qua.lafargeone.net:8880/ws/laf.webServices.invoicec.infoAutSRIString.infoAutSRIString/laf_webServices_invoicec_infoAutSRIString_infoAutSRIString_Port" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
