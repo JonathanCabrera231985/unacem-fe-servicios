@@ -1,0 +1,29 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+# Versión de la sintaxis de configuración de Dependabot
+version: 2
+
+# Lista de ecosistemas de paquetes para actualizar
+updates:
+
+  # Configuración para npm (JavaScript/Node.js)
+  - package-ecosystem: "npm"
+    # Ubicación de tu archivo package.json
+    directory: "/"
+    # Frecuencia de la revisión (daily, weekly, monthly)
+    schedule:
+      interval: "daily"
+    # Mensaje de commit personalizado (opcional)
+    commit-message:
+      prefix: "deps"
+      include: "scope"
+
+  # Configuración para GitHub Actions (mantiene tus workflows actualizados)
+  - package-ecosystem: "github-actions"
+    # Busca archivos .yml en el directorio .github/workflows
+    directory: "/"
+    schedule:
+      interval: "daily"
